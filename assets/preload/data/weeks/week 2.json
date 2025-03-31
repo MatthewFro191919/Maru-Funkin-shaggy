@@ -1,13 +1,13 @@
 {
     "songList": 
     {
-        "songs":["Spookeez", "South", "Monster"],
-        "songIcons": ["spooky","spooky","monster"],
-        "songColors": ["0xFF223344"]
+        "songs":["GOD-EATER"],
+        "songIcons": ["pshaggy"],
+        "songColors": ["0xFF49346f"]
     },
     "weekImage": "week2",
-    "weekName": "spooky month",
-    "weekColor": "0xFF223344",
+    "weekName": "Ultimate destruction",
+    "weekColor": "0xFF49346f",
     "storyCharacters": ["spooky","bf","gf"],
     "startUnlocked": false,
     "unlockWeek": "week 3"
