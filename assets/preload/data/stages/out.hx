@@ -2,6 +2,10 @@ public var defaultCamZoom:Float = 1.05;
 
 function createPost()
 {
+
+				defaultCamZoom = 0.8;
+				curStage = 'out';
+	
 				var sky:BGElement = new BGElement('OBG/sky', -1204, -456, 0.15, 1, 0);
 				add(sky);
 
