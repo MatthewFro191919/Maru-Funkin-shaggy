@@ -1,13 +1,13 @@
 {
     "songList": 
     {
-        "songs":["Pico", "Philly Nice", "Blammed"],
-        "songIcons": ["pico"],
-        "songColors": ["0xFF941653"]
+        "songs":["Soothing-power", "Thunderstorm", "Dissasembler"],
+        "songIcons": ["rshaggy"],
+        "songColors": ["0xFFd11b1a"]
     },
-    "weekImage": "week3",
-    "weekName": "pico",
-    "weekColor": "0xFF941653",
+    "weekImage": "week4",
+    "weekName": "Bonus match",
+    "weekColor": "0xFFd11b1a",
     "storyCharacters": ["pico","bf","gf"],
     "startUnlocked": false,
     "unlockWeek": "week 4"
