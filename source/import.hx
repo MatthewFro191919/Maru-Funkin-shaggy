@@ -132,3 +132,4 @@ import #if cpp cpp.UInt8 #else Int #end as Int8;
 
 //shaggy
 import MansionDebris;
+import BGElement;
