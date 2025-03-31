@@ -1,0 +1,128 @@
+{
+	"imagePath": "Gooey",
+	"allowLod": false,
+	"isGF": false,
+	"camOffsets": [-10,10],
+	"icon": "gooey",
+	"scale": 6,
+	"anims": [
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "missedl",
+			"animName": "singRIGHTmiss"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "down",
+			"animName": "singDOWN"
+		},
+		{
+      "offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "missedr",
+			"animName": "singLEFTmiss"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "up",
+			"animName": "singUP"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "BF HEY",
+			"animName": "hey"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "henod",
+			"animName": "idle"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "missedd",
+			"animName": "singDOWNmiss"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "left",
+			"animName": "singRIGHT"
+		},
+		{
+      "offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "right",
+			"animName": "singLEFT"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "missedu",
+			"animName": "singUPmiss"
+		},
+		{
+      "offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "altright",
+			"animName": "singLEFT-alt"
+		},
+		{
+      "offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "altleft",
+			"animName": "singRIGHT-alt"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "up",
+			"animName": "singUP-alt"
+		},
+		{
+			"offsets": [9,-20],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "altdown",
+			"animName": "singDOWN-alt"
+		}
+	],
+	"charOffsets": [0,-350],
+	"flipX": true,
+	"isPlayer": true,
+	"antialiasing": false,
+	"gameOverChar": "gooey-dead",
+	"gameOverSuffix": ""
+}
