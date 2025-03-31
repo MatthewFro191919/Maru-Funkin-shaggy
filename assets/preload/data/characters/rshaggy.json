@@ -1,0 +1,63 @@
+{
+	"imagePath": "shaggy_red",
+	"camOffsets": [-280,50],
+	"icon": "rshaggy",
+	"isGF": false,
+	"scale": 1,
+	"charOffsets": [0,0],
+	"anims": [
+		{
+			"offsets": [-10,-160],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "shaggy_down",
+			"animName": "singDOWN"
+		},
+		{
+			"offsets": [-16,27],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "shaggy_up",
+			"animName": "singUP"
+		},
+		{
+			"offsets": [0,0],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "shaggy_idle0",
+			"animName": "idle"
+		},
+		{
+			"offsets": [0,0],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "shaggy_idle2",
+			"animName": "idle2"
+		},
+    {
+			"offsets": [165,-114],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "shaggy_left",
+			"animName": "singLEFT"
+		},
+		{
+			"offsets": [-1,38],
+			"indices": [],
+			"loop": false,
+			"framerate": 24,
+			"animFile": "shaggy_right",
+			"animName": "singLEFT"
+		}
+	],
+	"flipX": false,
+	"isPlayer": false,
+	"antialiasing": true,
+	"gameOverChar": "bf-dead",
+	"gameOverSuffix": ""
+}
