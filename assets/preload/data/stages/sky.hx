@@ -1,8 +1,10 @@
 public var defaultCamZoom:Float = 1.05;
+public static var curStage:String = '';
 
 function createPost()
 {
 				defaultCamZoom = 0.65;
+				curStage = 'sky';
 
 				var sky = new FlxSprite(-850, -850);
 				sky.frames = Paths.getSparrowAtlas('god_bg');
