@@ -1,4 +1,5 @@
 public var defaultCamZoom:Float = 1.05;
+public static var curStage:String = '';
 
 function createPost()
 {
