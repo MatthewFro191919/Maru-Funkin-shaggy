@@ -7,7 +7,7 @@
 	"charOffsets": [0,0],
 	"anims": [
 		{
-			"offsets": [3,-30],
+			"offsets": [-10,-160],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -15,7 +15,7 @@
 			"animName": "singDOWN"
 		},
 		{
-			"offsets": [-9,52],
+			"offsets": [-16,27],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -39,7 +39,7 @@
 			"animName": "idle2"
 		},
     {
-			"offsets": [-3,27],
+			"offsets": [165,-114],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
@@ -47,7 +47,7 @@
 			"animName": "singLEFT"
 		},
 		{
-			"offsets": [-5,11],
+			"offsets": [-1,38],
 			"indices": [],
 			"loop": false,
 			"framerate": 24,
