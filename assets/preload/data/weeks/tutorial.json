@@ -1,12 +1,12 @@
 {
     "songList": 
     {
-        "songs":["Tutorial"],
-        "songIcons": ["gf"],
-        "songColors": ["0xFFB00B69"]
+        "songs":["Where-are-you", "Eruption", "Kaio-ken"],
+        "songIcons": ["shaggy"],
+        "songColors": ["0xFF35714b"]
     },
-    "weekImage": "tutorial",
-    "weekName": "tutorial",
+    "weekImage": "week0",
+    "weekName": "First encounter",
     "weekColor": "0xFFB00B69",
     "storyCharacters": ["","bf","gf"],
     "startUnlocked": true
