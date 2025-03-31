@@ -2,7 +2,7 @@
     "songList": 
     {
         "songs":["Where-are-you", "Eruption", "Kaio-ken"],
-        "songIcons": ["shaggy"],
+        "songIcons": ["shaggy", "shaggy", "sshaggy"],
         "songColors": ["0xFF35714b"]
     },
     "weekImage": "week0",
