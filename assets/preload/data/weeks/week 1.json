@@ -2,7 +2,7 @@
     "songList": 
     {
         "songs":["Whats-new", "Blast", "Super-saiyan"],
-        "songIcon": ["dad"],
+        "songIcon": ["shaggy", "sshaggy", "sshaggy"],
         "songColors": ["0xFF35714b"]
     },
     "weekImage": "week1",
